@@ -1,4 +1,4 @@
-A game engine that uses SDL to hand media.
+A game engine that uses SDL to handle media.
 
 ```
 SDL-packages
